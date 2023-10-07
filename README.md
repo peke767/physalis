@@ -2,7 +2,7 @@
 
 The Physalis is 75% Keyboard.
 
-![physalis] (https://github.com/peke767/physalis/blob/main/img/physalis.png)
+![physalis] (https://raw.githubusercontent.com/peke767/physalis/main/img/physalis.png?token=GHSAT0AAAAAACIBPO32VNNHKNWEL76NJXU2ZJBOTRQ)
 
 ## Part List
 
