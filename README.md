@@ -2,6 +2,8 @@
 
 The Physalis is 75% Keyboard.
 
+![Physalis] (https://github.com/peke767/physalis/blob/main/img/physalis.png)
+
 ## Part List
 
 PCB --- 1 pcs
